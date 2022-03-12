@@ -1,2 +1,3 @@
 # MVC-library
-a minimalist MVC framework in PHP that stores and provides information on books 
+a minimalist MVC framework in PHP that stores and provides information on books.
+The app uses XAMPP for the web server setup
